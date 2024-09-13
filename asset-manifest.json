@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/official-web/static/css/main.dd201923.css",
-    "main.js": "/official-web/static/js/main.316d6fe9.js",
+    "main.js": "/official-web/static/js/main.f1f9d542.js",
     "static/media/yaks.png": "/official-web/static/media/yaks.ebee67b6a27e31c36c4d.png",
     "static/media/itconsulting.avif": "/official-web/static/media/itconsulting.048beb0a439c9dd88f8d.avif",
     "static/media/dataengineering1.avif": "/official-web/static/media/dataengineering1.231e75c3c0494a0f32e7.avif",
@@ -11,10 +11,10 @@
     "static/media/Cloudservice1.avif": "/official-web/static/media/Cloudservice1.e6ad8e65d4cdd6a868fc.avif",
     "index.html": "/official-web/index.html",
     "main.dd201923.css.map": "/official-web/static/css/main.dd201923.css.map",
-    "main.316d6fe9.js.map": "/official-web/static/js/main.316d6fe9.js.map"
+    "main.f1f9d542.js.map": "/official-web/static/js/main.f1f9d542.js.map"
   },
   "entrypoints": [
     "static/css/main.dd201923.css",
-    "static/js/main.316d6fe9.js"
+    "static/js/main.f1f9d542.js"
   ]
 }
