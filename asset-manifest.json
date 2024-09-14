@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/official-web/static/css/main.e9cd304b.css",
-    "main.js": "/official-web/static/js/main.b0d91944.js",
+    "main.css": "/official-web/static/css/main.e01b3558.css",
+    "main.js": "/official-web/static/js/main.e1eaec8c.js",
     "static/media/FMS.png": "/official-web/static/media/FMS.10b53d2a256d6b27bbe6.png",
     "static/media/GBT.png": "/official-web/static/media/GBT.1e8ec43e7ada6322217a.png",
     "static/media/VAYU.png": "/official-web/static/media/VAYU.4db34ccb9aa1018434ae.png",
     "static/media/AMS.png": "/official-web/static/media/AMS.354b34ffab727cf0f4d5.png",
+    "static/media/CEO.png": "/official-web/static/media/CEO.7f8326306d716033ad32.png",
     "static/media/yaks.png": "/official-web/static/media/yaks.ebee67b6a27e31c36c4d.png",
     "static/media/itconsulting.avif": "/official-web/static/media/itconsulting.048beb0a439c9dd88f8d.avif",
     "static/media/dataengineering1.avif": "/official-web/static/media/dataengineering1.231e75c3c0494a0f32e7.avif",
@@ -14,11 +15,11 @@
     "static/media/itsolution.avif": "/official-web/static/media/itsolution.54a062c445f263ac100f.avif",
     "static/media/Cloudservice1.avif": "/official-web/static/media/Cloudservice1.e6ad8e65d4cdd6a868fc.avif",
     "index.html": "/official-web/index.html",
-    "main.e9cd304b.css.map": "/official-web/static/css/main.e9cd304b.css.map",
-    "main.b0d91944.js.map": "/official-web/static/js/main.b0d91944.js.map"
+    "main.e01b3558.css.map": "/official-web/static/css/main.e01b3558.css.map",
+    "main.e1eaec8c.js.map": "/official-web/static/js/main.e1eaec8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9cd304b.css",
-    "static/js/main.b0d91944.js"
+    "static/css/main.e01b3558.css",
+    "static/js/main.e1eaec8c.js"
   ]
 }
