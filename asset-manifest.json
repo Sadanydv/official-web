@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/official-web/static/css/main.214c3716.css",
-    "main.js": "/official-web/static/js/main.87ffdfad.js",
+    "main.css": "/official-web/static/css/main.5603a565.css",
+    "main.js": "/official-web/static/js/main.0fd7ce5f.js",
+    "static/media/SignalTechnology.mp4": "/official-web/static/media/SignalTechnology.12f0482241d978294d61.mp4",
     "static/media/FMS.png": "/official-web/static/media/FMS.10b53d2a256d6b27bbe6.png",
     "static/media/GBT.png": "/official-web/static/media/GBT.1e8ec43e7ada6322217a.png",
     "static/media/VAYU.png": "/official-web/static/media/VAYU.4db34ccb9aa1018434ae.png",
     "static/media/AMS.png": "/official-web/static/media/AMS.354b34ffab727cf0f4d5.png",
+    "static/media/whychoose.png": "/official-web/static/media/whychoose.c9f8e67575fe1f2069e9.png",
     "static/media/fa-solid-900.ttf": "/official-web/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/VideoThumbnail.avif": "/official-web/static/media/VideoThumbnail.f4f6dfa5c3fd5bb65328.avif",
     "static/media/CEO.png": "/official-web/static/media/CEO.7f8326306d716033ad32.png",
     "static/media/fa-brands-400.ttf": "/official-web/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/official-web/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/yaks.png": "/official-web/static/media/yaks.ebee67b6a27e31c36c4d.png",
     "static/media/fa-brands-400.woff2": "/official-web/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/fa-regular-400.ttf": "/official-web/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/left-arrow.png": "/official-web/static/media/left-arrow.8ee2fc37bbe040d556c4.png",
+    "static/media/right-arrow.png": "/official-web/static/media/right-arrow.22fb43b34458f2c18d96.png",
+    "static/media/PlayButton.png": "/official-web/static/media/PlayButton.39d8bbd5566eadf704c0.png",
     "static/media/itconsulting.avif": "/official-web/static/media/itconsulting.048beb0a439c9dd88f8d.avif",
     "static/media/fa-regular-400.woff2": "/official-web/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/dataengineering1.avif": "/official-web/static/media/dataengineering1.231e75c3c0494a0f32e7.avif",
@@ -23,11 +29,11 @@
     "static/media/Cloudservice1.avif": "/official-web/static/media/Cloudservice1.e6ad8e65d4cdd6a868fc.avif",
     "static/media/fa-v4compatibility.woff2": "/official-web/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/official-web/index.html",
-    "main.214c3716.css.map": "/official-web/static/css/main.214c3716.css.map",
-    "main.87ffdfad.js.map": "/official-web/static/js/main.87ffdfad.js.map"
+    "main.5603a565.css.map": "/official-web/static/css/main.5603a565.css.map",
+    "main.0fd7ce5f.js.map": "/official-web/static/js/main.0fd7ce5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.214c3716.css",
-    "static/js/main.87ffdfad.js"
+    "static/css/main.5603a565.css",
+    "static/js/main.0fd7ce5f.js"
   ]
 }
